@@ -1,0 +1,23 @@
+form{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
+    align-items: center;
+    
+}
+.inputdisk
+{
+    width: 200px;
+    margin-bottom: 10px;
+    outline: none;
+    height: 20px;
+}
+
+input[type = "submit"]{
+    background-color: rgb(19, 224, 19);
+    border: none;
+    color: #313131;
+    padding: 5px 10px;
+    cursor: pointer;
+}
